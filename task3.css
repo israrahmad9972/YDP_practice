@@ -1,0 +1,12 @@
+ul li {
+  /* list-style-image: url(../images/image1.jpg); */
+  list-style-type: georgian;
+  list-style-position: outside;
+  border: 2px solid black;
+}
+
+ol li {
+  list-style-type: lower-alpha;
+  list-style-position: inside;
+  border: 2px solid green;
+}

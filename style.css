@@ -1,0 +1,17 @@
+.first_para {
+  color: red;
+}
+#first_Para {
+  color: yellow;
+}
+h3 {
+  color: purple;
+  background-color: aqua;
+}
+body {
+  background-image: url(../images/image2.jpg);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center;
+  background-size: auto;
+}

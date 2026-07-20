@@ -1,0 +1,27 @@
+table {
+  border-collapse: collapse;
+  border-width: 4px;
+  border-spacing: 5px;
+  width: 50%;
+  height: 50%;
+  overflow-x: auto;
+}
+
+table tr th {
+  margin: 10px;
+  border: 2px solid green;
+  background-color: green;
+}
+
+table tr td {
+  padding: 8px;
+  margin: 8px;
+  border-width: 3px;
+  border: 2px solid black;
+  text-align: left;
+}
+
+table tr:hover {
+  color: white;
+  background-color: orangered;
+}
